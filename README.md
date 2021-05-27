@@ -1,6 +1,9 @@
-### Hey, I'm Conor 👋
+![Conor Ebeling](https://github.com/ConorEB/ConorEB/blob/main/Header-Img.png)
+***
 
-I'm a 16 year old full-stack developer and founder.
+### 🙋‍♂️ About
+
+I'm a 16 year old full-stack developer and founder working/living in Chicago, IL.
 
 ## 🔭 Current
 
