@@ -8,7 +8,7 @@ I'm currently working on [IntelliTrade](https://intellitrade.app) - we're making
 
 ## ⚡️ Experience
 
-* JavaScript & Typescript (3 years)
+* JavaScript & TypeScript (3 years)
 * React (2 years)
 * Go (1 year)
 
