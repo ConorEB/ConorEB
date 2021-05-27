@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey, I'm Conor 👋
 
-<!--
-**ConorEB/ConorEB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 16 year old full-stack developer and founder.
 
-Here are some ideas to get you started:
+## 🔭 Current
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on [IntelliTrade](https://intellitrade.app) - we're currently making it easy for anyone to get started with investing by providing actionable investment ideas and insights.
+
+## ⚡️ Experience
+
+* JavaScript & Typescript (3 years)
+* React (2 years)
+* Go (1 year)
+
+## 📫 Contact
+
+To contact me quickly and easily, [DM me on Twitter](https://twitter.com/ConorCooks).
+
+If it's something more business related, email me: conorebeling@gmail.com
