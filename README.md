@@ -1,4 +1,4 @@
-![Conor Ebeling](https://github.com/ConorEB/ConorEB/blob/main/Header-Img.png)
+![Conor Ebeling](https://github.com/ConorEB/ConorEB/blob/main/Header-Img.jpeg)
 ***
 
 ### 🙋‍♂️ About
