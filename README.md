@@ -4,7 +4,7 @@ I'm a 16 year old full-stack developer and founder.
 
 ## 🔭 Current
 
-I'm currently working on [IntelliTrade](https://intellitrade.app) - we're currently making it easy for anyone to get started with investing by providing actionable investment ideas and insights.
+I'm currently working on [IntelliTrade](https://intellitrade.app) - we're making it easy for anyone to get started with investing by providing actionable investment ideas and insights.
 
 ## ⚡️ Experience
 
