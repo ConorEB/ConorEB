@@ -3,18 +3,21 @@
 
 
 ## 🙋‍♂️ About
-
+ 
 I'm a 16 year old full-stack developer and founder working/living in Chicago, IL.
 
 
 ## 🔭 Current
 
-I'm currently working on [IntelliTrade](https://intellitrade.app) - we're making it easy for anyone to get started with investing by providing actionable investment ideas and insights.
+I'm currently focusing on expanding my development stack into frontend technologies.
 
 ## ⚡️ Experience
 
+I leverage statically typed languages and modern-day frontend technologies to build web apps at scale.
+
 * JavaScript & TypeScript (3 years)
 * React (2 years)
+* React Native (1 year)
 * Go (1 year)
 
 
