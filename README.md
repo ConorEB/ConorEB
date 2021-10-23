@@ -25,4 +25,4 @@ I leverage statically typed languages and modern-day frontend technologies to bu
 
 To contact me quickly and easily, [DM me on Twitter](https://twitter.com/ConorCooks).
 
-If it's something more business related, email me: conorebeling@gmail.com
+If it's something more business related, email me: hey@conor.link
