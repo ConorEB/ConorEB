@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About
  
-I'm a 16 year old full-stack developer and founder working/living in Chicago, IL.
+I'm a 17 year old full-stack developer and founder working/living in Chicago, IL.
 
 
 ## 🔭 Current
@@ -15,9 +15,9 @@ I'm currently focusing on expanding my development stack into frontend technolog
 
 I leverage statically typed languages and modern-day frontend technologies to build web apps at scale.
 
-* JavaScript & TypeScript (3 years)
+* JavaScript & TypeScript (4 years)
 * React (2 years)
-* React Native (1 year)
+* React Native (2 year)
 * Go (1 year)
 
 
